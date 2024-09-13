@@ -1,0 +1,5 @@
+python
+ from clicknium import clicknium as cc
+
+ # install edge extension
+ cc.edge.extension.install()
